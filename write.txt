@@ -1,5 +1,4 @@
 This is a write.txt file
+added something 
+Bug fixed
 
-added something .
-
-kiso akta add korlam
